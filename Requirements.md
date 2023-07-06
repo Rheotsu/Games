@@ -1,4 +1,4 @@
-#Following are the requirements
+# Following are the requirements
 
 > Free for PC
 > Anti-multiplayer
